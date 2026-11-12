@@ -1,6 +1,6 @@
 # Glas&Stahl
 
-**…Hauptsache kein Plastik.**
+**Hauptsache kein Plastik.**
 
 Eigenständige statische Website für Produkt-Reviews, Materialwissen und langlebige Alternativen.
 
