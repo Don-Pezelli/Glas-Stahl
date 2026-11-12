@@ -1,4 +1,4 @@
-# Glas-Stahl
+# Glas&Stahl
 
 **…hauptsache kein Plastik.**
 
