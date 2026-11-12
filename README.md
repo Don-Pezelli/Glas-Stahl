@@ -14,3 +14,11 @@ Eigenständige statische Website für Produkt-Reviews, Materialwissen und langle
 2. Speichern und warten, bis GitHub Pages die Website bereitgestellt hat.
 
 Die Inhalte der Website liegen direkt im Repository-Root.
+
+## Review erstellen
+
+Die ausfüllbare Redaktionsvorlage liegt in [`review-vorlage.md`](review-vorlage.md). Die Teekannen-Seite ist ein erster Review-Entwurf ohne erfundene Produktdaten; vor einer Bewertung müssen Produkt und Praxistest ergänzt werden.
+
+## Produktsammlung
+
+Die aktuelle Produktliste mit persönlichen Notizen und Linkstatus steht in [`produkte.html`](produkte.html). Quelle bzw. Status werden je Produkt getrennt festgehalten; nicht abrufbare Seiten sind entsprechend markiert.
